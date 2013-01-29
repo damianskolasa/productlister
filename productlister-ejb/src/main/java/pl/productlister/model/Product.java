@@ -5,10 +5,12 @@ import java.io.Serializable;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.Table;
 import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement
 @Entity
+@Table(name="SOA_PRODUCT")
 public class Product implements Serializable {
 	
 	private static final long serialVersionUID = 8386254278959408954L;

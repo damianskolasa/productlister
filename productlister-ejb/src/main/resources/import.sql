@@ -1,2 +1,1 @@
--- You can use this file to load seed data into the database using SQL statements
-insert into Member (id, name, email, phone_number) values (0, 'John Smith', 'john.smith@mailinator.com', '2125551212') 
+insert into SOA_PRODUCT (id, code, name, description) values (1, 'U24', 'Ubezpieczenie standard 24', 'Podstawowy pakiet ubezpieczeniowy, darmowa opieka zdrowotna, wizyty w specjalistycznych poradnich.');
