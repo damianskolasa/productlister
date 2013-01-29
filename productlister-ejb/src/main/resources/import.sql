@@ -1,1 +1,3 @@
-insert into SOA_PRODUCT (id, code, name, description) values (1, 'U24', 'Ubezpieczenie standard 24', 'Podstawowy pakiet ubezpieczeniowy, darmowa opieka zdrowotna, wizyty w specjalistycznych poradnich.');
+insert into SOA_PRODUCT (id, code, name, description) values (1, 'STD24', 'Ubezpieczenie standard 24', 'Podstawowy pakiet ubezpieczeniowy, darmowa opieka zdrowotna, wizyty w specjalistycznych poradnich.');
+insert into SOA_PRODUCT (id, code, name, description) values (2, 'DR24', 'Ubezpieczenie samochodowe 24', 'Pakiet ubezpieczeniowy dla kierowcow, NNW AC oraz OC dla kazdego.');
+insert into SOA_PRODUCT (id, code, name, description) values (3, 'R24', 'Ubezpieczenie rodzinne 24', 'Pakiet rodzinny ubezpieczenia, dla rodzicow i dzieci.');
